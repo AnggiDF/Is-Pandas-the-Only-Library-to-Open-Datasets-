@@ -1,4 +1,4 @@
-# Is-Pandas-the-Only-Library-to-Open-Datasets-
+# Is Pandas the Only Library to Open Datasets?
 Opening various kind of datasets. 
 
 Data have various types since there is a lot of source can be extracted to informative and knowledgeable dataset. There are a lot of data types, such as xlsx, txt, API, json, CSV, TSV, http, zip, twitter, and so on. But before we process it, we should understanding the data to choose useful one. In this time, I want to share how to read some various data types in Python.
